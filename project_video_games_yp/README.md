@@ -1,7 +1,7 @@
 # project_video_games_yp
 A project that I made while I was studying at the course Data Analyst. Project Goals: reveal existing patterns in the data, identify potentially profitable platforms, evaluate the impact on sales of user and critics reviews, test some hypotheses.
 
-# Проект Продажи видео игр
+# Проект Анализ рынка видео игр
 ## Данные
 Исторические данные из открытых источников о
 - продажах игр в различных регионах,
