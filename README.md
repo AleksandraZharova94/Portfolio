@@ -1,5 +1,9 @@
 # Portfolio
 This repository contains projects that show my abilities in data analysis.
+I made all these projects while studying at the Data Analyst course from [Yandex Practicum](https://practicum.yandex.ru/data-analyst/).
+
+## Учебные проекты:
+
 
 
 | Название проекта      | Описание проекта       | Используемые библиотеки    |
